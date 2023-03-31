@@ -1,0 +1,64 @@
+#R1{
+    margin-left: 40%;
+    margin-top: 150px;
+    font-size: xx-large;
+    background-color: black;
+    color: yellow;
+}
+#R2{
+margin-left: 43%;
+margin-top: 50px;
+font-size: xx-large;background-color: black;
+color: yellow;
+
+}
+#R3{
+    margin-left: 45.5%;
+    margin-top: 50px;
+    font-size: xx-large;background-color: black;
+    color: yellow;
+} 
+#R4{
+    margin-left: 35%;
+    margin-top: 50px;
+    font-size: xx-large;background-color: black;
+    color: yellow;
+}
+#R5{
+    text-align: center;
+    padding-top: 80px;
+
+}
+.R6{
+    margin-left: 48.0%;
+    background-color: black;
+    color: antiquewhite;
+    font-size: large;
+    
+}
+#R6:hover{
+    background-color: blue;
+}
+body{
+    background-image: url(dh12.jpg);
+    min-height: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+.Rh{
+    padding-top: 200px;
+}
+p{
+    font-size: large;
+    padding-top: 10px;
+}
+ .inp{
+    align-items: center;
+ }
+ .form2{
+    padding-bottom: 20px;
+ }
+ #R7{
+    margin-top: 50px;
+ }

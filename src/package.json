@@ -1,0 +1,19 @@
+{"dependencies": {
+    "firebase": "^9.18.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  },
+  "name": "new2.html",
+  "version": "1.0.0",
+  "main": "new5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

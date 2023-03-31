@@ -1,0 +1,42 @@
+#s1{
+    margin-left: 41.1%;
+    font-size: xx-large;
+    color: darkgoldenrod;
+}
+#s3{
+    margin-left: 39%;
+    font-size: xx-large;
+    color: darkgoldenrod;
+}
+.s{
+    margin-top: 170px;
+}
+button{
+    margin-left:46.1%;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-top: 140px;
+    background-color: darkblue;
+    color: antiquewhite;
+    font-size: x-large;
+
+}
+button:hover{
+    background-color: blue;
+}
+body{
+    background-image: url(dh23.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+h1{
+    text-align: center;
+    color: darkgoldenrod;
+    font-size: xxx-large;
+    margin-top: 100px;
+}
+u{
+    color: darkgoldenrod;
+}

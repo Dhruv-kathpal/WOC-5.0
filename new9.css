@@ -1,0 +1,52 @@
+#z1{
+    margin-top: 60px;
+    
+}
+#za{
+    margin-left: 135px;
+    font-size:x-large;
+    background-color: black;
+}
+#zb{
+    margin-top: 100px;
+    font-size: x-large;
+    background-color: black;
+}
+#zc{
+    font-size: x-large;
+    background-color: black;
+    
+}
+#zd{
+    font-size:x-large;
+    background-color: black;
+}
+#ze{
+    font-size: large;
+}
+.zr{
+    margin-left: 50px;
+    
+}
+body{
+    background-image: url(dh22.jpg);
+
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    color: chartreuse;
+}
+.Zz{border-bottom:dotted 3px greenyello;
+    
+}
+#z4{
+    background-color: black;
+    color: greenyellow;
+}
+#ze{background-color: black; 
+font-size: x-large;
+border-bottom:solid 3px greenyellow;}
+#zf{background-color: black;}
+#zg{background-color: black;}
+#zh{background-color: black;}
+#zi{background-color: black;}

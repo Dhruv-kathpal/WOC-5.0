@@ -1,0 +1,45 @@
+.w1{
+    
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+     padding-bottom:10px ;
+     background-color: black;
+     font-size: large;
+     color: blanchedalmond;
+     
+   
+}
+#wa{
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#wb{
+    margin-top: 150px;
+    
+    margin-top: 20px;
+}
+.w{
+     margin-top:80px ;
+     
+}
+
+#wc{
+margin-top: 20px;
+}
+#wd{
+margin-top: 20px;
+}
+#we{
+margin-top: 20px;
+}
+#wg{
+    padding-top:100px;
+}
+.w1:hover{
+    background-color:blue;
+    color: aliceblue;
+}

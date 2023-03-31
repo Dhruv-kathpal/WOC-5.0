@@ -1,0 +1,63 @@
+#d1{
+    margin-left: 40%;
+    margin-top: 150px;
+    font-size: xx-large;
+    background-color: black;
+    color: yellow;
+}
+#d2{
+margin-left: 43%;
+margin-top: 50px;
+font-size: xx-large;background-color: black;
+color: yellow;
+
+}
+#d3{
+    margin-left: 45.5%;
+    margin-top: 50px;
+    font-size: xx-large;background-color: black;
+    color: yellow;
+} 
+#d4{
+    margin-left: 35%;
+    margin-top: 50px;
+    font-size: xx-large;background-color: black;
+    color: yellow;
+}
+#d5{
+    text-align: center;
+    padding-top: 80px;
+
+}
+.d6{
+    margin-left: 48.0%;
+    background-color: black;
+    color: antiquewhite;
+    font-size: large;
+}
+#d6:hover{
+    background-color: blue;
+}
+body{
+    background-image: url(dh15.jpg);
+    min-height: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+.Dh{
+    padding-top: 200px;
+}
+p{
+    font-size: large;
+    padding-top: 10px;
+}
+ .inp{
+    align-items: center;
+ }
+ .form2{
+    padding-bottom: 20px;
+ }
+ #d7{
+    margin-top: 100px;
+ }

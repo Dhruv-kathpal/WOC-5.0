@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="new21.css">
+
+<body>
+    <div id="r1"></div>
+    <h1 id="qno">Q.NO.2</h1>
+    <span id="result"></span>
+    <p id="ans">Correct answer is </p>
+    <form action="" id="form">
+        <label for="">A</label>
+        <input type="radio">
+        <br>
+        <br>
+        <label for="">B</label>
+        <input type="radio">
+        <br>
+        <br>
+        <label for="">C</label>
+        <input type="radio">
+        <br>
+        <br>
+
+        <label for="">D</label>
+        <input type="radio">
+        <br>
+        <br>
+        
+    </form>
+    <br>
+    <br>
+    <br>
+    <br>
+<button type="radio" id="b2" onclick="p1()">previous</button>
+    <button type="radio" id="b1" onclick="p2()">Next></button>
+</body>
+<script>
+    document.getElementById("result").innerHTML=localStorage.getItem("image2")
+</script>
+<script>
+    function p1(){
+        window.location="new21.html";
+    }
+    function p2(){
+        window.location="new23.html"
+    }
+</script>
+<script>
+    var seconds = 0;
+    function displayseconds()
+    {
+        seconds += 1;
+        document.getElementById("r1").innerText="question will end in "+seconds+" /60 seconds";
+    }
+    setInterval(displayseconds , 1000);
+   
+    function redirectpage(){
+        window.location="new22.html";
+    }
+    setTimeout('redirectpage()' , 60000);
+    
+</script>
+</html>

@@ -1,0 +1,31 @@
+#o1{
+    text-align: center;
+    margin-top:150px;
+    font-size:xxx-large;
+}
+#o2{
+    margin-top: 125px;
+    font-size:x-large;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+padding-top:10px;
+    background-color: black;
+    color: antiquewhite;
+}
+#o3{
+    margin-top: 40px;
+    font-size:x-large;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+padding-top:10px;
+    background-color: black;
+    color: antiquewhite;
+}
+
+
+
+.o{
+    margin-top: 80px;
+}
